@@ -33,7 +33,6 @@ I love the entire process of developing creative websites& mobileapps, big web-s
 
 ## 🌱 I'm currently learning
 
-- Next.js
 - C/C++
 - Android Development  
 
