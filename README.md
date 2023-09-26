@@ -34,8 +34,8 @@ I love the entire process of developing creative websites& mobileapps, big web-s
 
 ## 🌱 I'm currently learning
 
-- C/C++
-- Android Development  
+- Arduino (Embedded Systems)
+- PL/SQL 
 
 ## 💼 Technical Skills
 
