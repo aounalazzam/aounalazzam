@@ -3,7 +3,7 @@ Hi there, I'm Aoun👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 & UI Designer 🎨!
+I'm a Full-Stack Web & Game Developer 💻 & UI Designer 🎨!
 </h2> 
 
 ![AounAlazzam](./banner.png)
