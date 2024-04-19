@@ -29,15 +29,11 @@ I love the entire process of developing creative websites& mobileapps, big web-s
 
 ## 🔭 I'm currently working on
 
-<!--
-- Free & Open Source Resume Builder [CREUME](https://github.com/aounalazzam/creume)
--->
-- A Schme-Based Validation For Express Body, Query, Params, Headers & Cookies [expressive-validator](https://github.com/aounalazzam/expressive-validator)
+👀 i will tell you when i end from working on
 
 ## 🌱 I'm currently learning
 
-- Arduino (Embedded Systems)
-- PL/SQL 
+- AstroJs
 
 ## 💼 Technical Skills
 
