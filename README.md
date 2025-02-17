@@ -62,7 +62,6 @@ I love the entire process of developing creative websites& mobileapps, big web-s
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/dotNet-purple?style=for-the-badge&logo=.net)
 
 
 <br/>
